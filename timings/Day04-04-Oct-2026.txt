@@ -1,0 +1,11 @@
+OCT 4
+
+3 = Morning Session 
+
+Where we learn about real-world use case and issue
+
+we learn how to kill procress with name and process id , diff between green fit project and brow fit project.
+
+also how to find the older logs / files , recent files diff between grep and egrep.
+
+and soo much more.
