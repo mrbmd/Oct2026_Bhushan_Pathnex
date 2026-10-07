@@ -1,0 +1,9 @@
+Oct 5
+
+3 = We learn Git
+
+how the real life devlopers work with the team on simple project
+
+how they collborate and made chnages and maintain the codebase.
+
+
