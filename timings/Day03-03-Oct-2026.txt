@@ -1,0 +1,6 @@
+OCT 3 
+
+3 = Attend Morning session where we have learn about adv. liunx commands
+
+Also learn to lunch the AWS EC2.
+ 
