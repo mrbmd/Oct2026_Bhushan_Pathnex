@@ -1,0 +1,8 @@
+Today OCT 07
+
+3 = Attened Moring Session.
+
+i have compelete the assingment task where we have to create some
+ansible playbook file, terraform modules and k8s yaml file
+
+
