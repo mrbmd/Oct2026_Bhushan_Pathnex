@@ -1,0 +1,13 @@
+# OCT 2
+
+3 = Attend Morning Session On Linux Topic
+
+today we learn the basic commands of linux like - cd , pwd , rm , mv 
+
+also learn about group and permissions
+
+what is hard like what is soft link etc.
+
+Tomorrow 
+
+we will learn more advance linux commands and their use cases.
