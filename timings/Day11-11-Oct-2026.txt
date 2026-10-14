@@ -1,0 +1,9 @@
+OCT 11
+
+Today morning sessiion we learn about the kubenetes
+that is open sourcre container orchestration tool
+that help our applications to high avabiltiy 
+and scalabilty and realiabilty
+
+tomorrow
+we are going to cover more topic like deploments and servires.
