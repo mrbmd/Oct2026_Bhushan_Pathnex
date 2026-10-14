@@ -1,0 +1,7 @@
+OCT 08 
+
+In moring session we learn AWS service like - S3. Lamda , Route 53 and CloudWatch
+
+i spend some time to look this service in detils and there usage.
+
+attend evening stand-up call.
