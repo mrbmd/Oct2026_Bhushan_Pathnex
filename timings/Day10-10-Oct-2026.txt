@@ -1,0 +1,9 @@
+OCT 10
+
+Today we learn complted docker topics where the learn how we can containerzie the application
+how we can run the docker containers and manage them.
+
+tomorror 
+
+we will start learning the k8s as per the rodemap 
+where we will learn how we can orchestrate the containeze application.
