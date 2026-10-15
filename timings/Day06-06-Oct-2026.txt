@@ -1,0 +1,9 @@
+Oct 6 
+
+3 = Start the AWS learning
+
+Review some of the popular AWS Services like ES2, VPC , S3 and so much more.
+
+the Storage Service like S3 , ebs , efs and how they are diff we learn that.
+
+
