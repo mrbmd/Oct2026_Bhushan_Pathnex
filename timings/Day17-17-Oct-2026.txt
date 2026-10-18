@@ -1,0 +1,13 @@
+Oct 17
+
+In the morning session we start to learn ArgoCD tool
+
+it help for continues deploments and follow the git as 
+
+single source of truth.
+
+
+tomorrow 
+
+as per the rodemap we are going to learn 
+Terrafrom that is IAC tool which infa as a code.
