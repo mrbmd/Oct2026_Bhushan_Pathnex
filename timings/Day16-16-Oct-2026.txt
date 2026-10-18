@@ -1,0 +1,9 @@
+OCT 16 
+
+We start learning HELM Charts in kubernetes
+
+learn the fundamentals , configration 
+
+how to work with vaules.yaml and chart.yaml
+
+
