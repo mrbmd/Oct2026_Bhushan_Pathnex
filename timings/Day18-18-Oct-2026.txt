@@ -1,0 +1,10 @@
+OCT 18
+
+In the moring session we have learn
+Terrafrom which is IAC (infra as Code) tool
+that use for createing Infra by writeing code
+that suuport multi cloud platfrom
+
+2 = rewatch the video again to undersrtand
+
+30 min = pratices evening sessrion
