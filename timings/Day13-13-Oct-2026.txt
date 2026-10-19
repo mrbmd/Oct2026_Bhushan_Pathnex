@@ -1,0 +1,8 @@
+OCT 13 
+
+we started to learn more topic of kubernetres and try to deploy
+the nginx application and it deploy to the 
+AWS EKS cluster then we face some issue so 
+we use chatgpt and resocure the issue it was really good and fun learning.
+
+
