@@ -1,0 +1,9 @@
+Today 
+
+Watch moring session on youtube
+in which i learn EKS which is fully managed
+Kubernetes service by AWS
+where we can deploy our application 
+
+tomorrow - we will learn more topic about this
+
