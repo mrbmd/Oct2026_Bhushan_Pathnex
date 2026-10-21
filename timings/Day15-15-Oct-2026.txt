@@ -1,0 +1,7 @@
+OCT 15 
+
+Today we learn how pods are actully managed
+then learn rolling update policy
+Istio Gateway and so much more topic
+
+then attend evening sessnion.
