@@ -1,0 +1,9 @@
+today 
+
+attend moring session 
+in which learn new topic Kafka.
+is distributed event streaming platform used to capture, store, and process high-volume, real-time data streams
+in short Kafka Operates on a publish-subscribe messging model.
+
+
+read from notes to understand the topic more
