@@ -1,0 +1,2 @@
+explored ssl certificate and different
+types of SSL certificate and how its useful.
