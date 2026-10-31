@@ -1,0 +1,10 @@
+Oct 27 
+
+Attend Moring class
+where we learn about SSL/TLS Certificates 
+learned how to generate a private key and CSR using OpenSSL
+also create a self-signed certificate, and configure SSL on an Nginx server.
+
+try to do hand-on with all this
+
+attend evening class
