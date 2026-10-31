@@ -1,0 +1,11 @@
+OCT 22 
+
+Today we learn ELK 
+
+i have spent some time search for - what is Filebeat , Logstash
+why we use them - iam trying to undestand that 
+
+and in evening i evien youtube video again which help me to understand pending topics
+
+
+also read the notes
