@@ -1,0 +1,13 @@
+Oct 23 
+
+today learn about the Ci/CD tools
+like GitLab and GitHub Action
+nowadays this tool are very popular.
+
+i spend some time looking this topic with chatgpt
+try to understnader what happen in CI part 
+and then CD part
+and how this both are differt from each other
+
+watch other video on this tools to get an overview
+
